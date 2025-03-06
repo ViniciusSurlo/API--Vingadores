@@ -1,0 +1,59 @@
+{
+    "nome" : "vingadores",
+    "membros" : [
+        {
+            "nome": "Thor",
+            "idade": 1000,
+            "identidadeSecreta": "Donald",
+            "Poderes" : "Martelo, Força"
+        },
+        {
+            "nome": "Hulk",
+            "idade": 50,
+            "identidadeSecreta": "Benjamin",
+            "Poderes" : "Escudo, Super Força"
+        },
+        {
+            "nome": "Hawkeye",
+            "idade": 35,
+            "identidadeSecreta": "Robert",
+            "Poderes" : "Chute rápido, Escudo"
+        },
+        {
+            "nome": "Captain America",
+            "idade": 90,
+            "identidadeSecreta": "Steve",
+            "Poderes" : "Escudo, Super Força"
+        },
+        {
+            "nome": "Viuva Negra",
+            "idade": 30,
+            "identidadeSecreta": "Romanov",
+            "Poderes" : "Escudo, Super Força"
+        },
+        {
+            "nome": "Iron Man",
+            "idade": 45,
+            "identidadeSecreta": "Tony Stark",
+            "Poderes" : "Escudo, Super Força"
+        },
+        {
+            "nome": "Spider-Man",
+            "idade": 18,
+            "identidadeSecreta": "Peter Parker",
+            "Poderes" : "Velocidade, flexibilidade"
+        },
+        {
+            "nome": "Black Panther",
+            "idade": 35,
+            "identidadeSecreta": "T'Challa",
+            "Poderes" : "Escudo, Super Força"
+        },
+        {
+            "nome": "Dr. Estranho",
+            "idade": 35,
+            "identidadeSecreta": "Stephen Strange",
+            "Poderes" : "Telepatia, Teleporte"
+        }
+    ]
+}
